@@ -4,7 +4,9 @@
 
 Computer vision · lightweight models · edge deployment
 
-M.S. student, Dongguk University (graduating Aug 2027) · inislike [at] naver.com
+M.S. student, Dongguk University · graduating Aug 2027
+
+<a href="mailto:inislike@naver.com"><img src="https://img.shields.io/badge/inislike%40naver.com-30363D?style=flat-square&logo=naver&logoColor=white" alt="Email" /></a>
 
 English · [한국어](README_ko.md)
 

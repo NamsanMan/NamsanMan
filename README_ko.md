@@ -4,7 +4,9 @@
 
 Computer vision · 경량 모델 · 엣지 배포
 
-동국대학교 석사과정 (2027년 8월 졸업 예정) · inislike [at] naver.com
+동국대학교 석사과정 · 2027년 8월 졸업 예정
+
+<a href="mailto:inislike@naver.com"><img src="https://img.shields.io/badge/inislike%40naver.com-30363D?style=flat-square&logo=naver&logoColor=white" alt="메일" /></a>
 
 [English](README.md) · 한국어
 
