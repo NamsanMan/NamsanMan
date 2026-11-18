@@ -120,3 +120,9 @@ Computer vision · 경량 모델 · 엣지 배포
 | 하드웨어 | Jetson Orin Nano, Raspberry Pi 5, Android |
 | 로보틱스 | ROS 2, Nav2 |
 | 기타 | Git, Docker, Linux |
+
+## 코딩 테스트
+
+<a href="https://github.com/NamsanMan/Programmers"><img src="https://img.shields.io/github/directory-file-count/NamsanMan/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%2F1?type=dir&label=Programmers%20Lv.1&style=flat-square&labelColor=30363D&color=4C5866" alt="Programmers Lv.1" /></a>
+<a href="https://github.com/NamsanMan/Programmers"><img src="https://img.shields.io/github/directory-file-count/NamsanMan/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%2F2?type=dir&label=Programmers%20Lv.2&style=flat-square&labelColor=30363D&color=4C5866" alt="Programmers Lv.2" /></a>
+<a href="https://github.com/NamsanMan/Programmers"><img src="https://img.shields.io/github/directory-file-count/NamsanMan/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%2F3?type=dir&label=Programmers%20Lv.3&style=flat-square&labelColor=30363D&color=4C5866" alt="Programmers Lv.3" /></a>

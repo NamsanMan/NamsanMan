@@ -124,3 +124,9 @@ pseudo-depth map is distilled into a 3.7M-parameter student that sees only the l
 | Hardware | Jetson Orin Nano, Raspberry Pi 5, Android |
 | Robotics | ROS 2, Nav2 |
 | Other | Git, Docker, Linux |
+
+## Coding test
+
+<a href="https://github.com/NamsanMan/Programmers"><img src="https://img.shields.io/github/directory-file-count/NamsanMan/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%2F1?type=dir&label=Programmers%20Lv.1&style=flat-square&labelColor=30363D&color=4C5866" alt="Programmers Lv.1" /></a>
+<a href="https://github.com/NamsanMan/Programmers"><img src="https://img.shields.io/github/directory-file-count/NamsanMan/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%2F2?type=dir&label=Programmers%20Lv.2&style=flat-square&labelColor=30363D&color=4C5866" alt="Programmers Lv.2" /></a>
+<a href="https://github.com/NamsanMan/Programmers"><img src="https://img.shields.io/github/directory-file-count/NamsanMan/Programmers/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%2F3?type=dir&label=Programmers%20Lv.3&style=flat-square&labelColor=30363D&color=4C5866" alt="Programmers Lv.3" /></a>
